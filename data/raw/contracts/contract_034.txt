@@ -1,0 +1,76 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement (the "Agreement") is made and entered into as of April 5, 2026, by and between BioTech Innovations Inc., a Massachusetts corporation with offices at 321 Research Lane, Cambridge, MA 02138 (the "First Party"), and PharmaDev Research LLC, a Delaware limited liability company with offices at 654 Discovery Drive, San Diego, CA 92101 (the "Second Party"). First Party and Second Party are collectively referred to as the "Parties" and individually as a "Party."
+
+WHEREAS, the Parties wish to explore a potential business relationship concerning collaborative research and development; and
+WHEREAS, in connection therewith, each Party may disclose certain confidential and proprietary information to the other Party;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the Parties agree as follows:
+
+1. PURPOSE
+1.1 The Parties wish to explore a potential collaboration in the field of pharmaceutical development and clinical research (the "Purpose").
+1.2 The exchange of information is solely for evaluating and discussing the potential business relationship.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+2.1 "Confidential Information" means all non-public information disclosed by one Party (the "Disclosing Party") to the other Party (the "Receiving Party"), whether orally, in writing, or in any other form, including but not limited to:
+    (a) Technical data, research results, formulas, processes, designs, and know-how;
+    (b) Business information, including marketing plans, financial data, customer lists, and supplier information;
+    (c) Software, source code, algorithms, and technical specifications;
+    (d) Any information marked or identified as "Confidential" or "Proprietary";
+    (e) Any information that reasonably should be understood to be confidential given the nature of the information and circumstances of disclosure.
+
+2.2 Confidential Information shall not include information that:
+    (a) Is or becomes publicly available through no breach of this Agreement by the Receiving Party;
+    (b) Was rightfully in the Receiving Party's possession prior to disclosure by the Disclosing Party;
+    (c) Is rightfully received by the Receiving Party from a third party without breach of any confidentiality obligation;
+    (d) Is independently developed by the Receiving Party without use of or reference to the Confidential Information; or
+    (e) Is required to be disclosed by law or court order, provided that the Receiving Party provides prompt notice to the Disclosing Party.
+
+3. OBLIGATIONS OF RECEIVING PARTY
+3.1 The Receiving Party agrees to:
+    (a) Hold all Confidential Information in strict confidence;
+    (b) Not disclose Confidential Information to any third party without the prior written consent of the Disclosing Party;
+    (c) Use the Confidential Information solely for the Purpose;
+    (d) Limit access to Confidential Information to employees and consultants who have a legitimate need to know and who are bound by confidentiality obligations at least as restrictive as those contained herein;
+    (e) Protect the Confidential Information using the same degree of care used to protect its own confidential information, but in no event less than reasonable care;
+    (f) Not copy or reproduce Confidential Information except as necessary for the Purpose.
+
+3.2 The Receiving Party shall be responsible for any breach of this Agreement by its employees, consultants, or agents.
+
+4. TERM AND SURVIVAL
+4.1 This Agreement shall commence on the date first written above and shall continue for a period of three (3) years, unless earlier terminated by either Party upon thirty (30) days written notice.
+4.2 The confidentiality obligations set forth herein shall survive termination of this Agreement and shall continue for a period of five (5) years from the date of disclosure of each item of Confidential Information.
+
+5. RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION
+5.1 Upon termination of this Agreement or upon request by the Disclosing Party, the Receiving Party shall, at the Disclosing Party's option:
+    (a) Return all Confidential Information, including all copies, notes, and derivatives thereof; or
+    (b) Destroy all Confidential Information and certify such destruction in writing.
+5.2 Notwithstanding the foregoing, the Receiving Party may retain one archival copy of Confidential Information solely for legal compliance purposes.
+
+6. NO LICENSE OR TRANSFER OF RIGHTS
+6.1 This Agreement does not grant the Receiving Party any license, right, or interest in or to any Confidential Information, patents, copyrights, trademarks, or other intellectual property of the Disclosing Party.
+6.2 All Confidential Information remains the sole property of the Disclosing Party.
+
+7. NO OBLIGATION TO PROCEED
+7.1 This Agreement does not obligate either Party to proceed with any transaction or relationship.
+7.2 Neither Party shall have any obligation to disclose any particular Confidential Information.
+
+8. REMEDIES AND INJUNCTIVE RELIEF
+8.1 The Parties acknowledge that monetary damages may be inadequate to compensate for a breach of this Agreement.
+8.2 The Disclosing Party shall be entitled to seek equitable relief, including injunction and specific performance, in addition to all other remedies available at law or in equity.
+8.3 The prevailing party in any action to enforce this Agreement shall be entitled to recover reasonable attorneys' fees and costs.
+
+9. REPRESENTATIONS AND WARRANTIES
+9.1 Each Party represents and warrants that it has the authority to enter into this Agreement and to perform its obligations hereunder.
+9.2 Each Party represents that the execution and performance of this Agreement will not violate any other agreement to which it is a party.
+
+10. GENERAL PROVISIONS
+10.1 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflicts of law principles.
+10.2 Jurisdiction: The Parties consent to the exclusive jurisdiction of the state and federal courts located in Delaware.
+10.3 Entire Agreement: This Agreement constitutes the entire agreement between the Parties and supersedes all prior agreements and understandings.
+10.4 Amendment: This Agreement may only be amended by a writing signed by both Parties.
+10.5 Severability: If any provision is found to be unenforceable, the remainder shall remain in full force and effect.
+10.6 Waiver: No waiver of any provision shall be deemed a waiver of any other provision or subsequent breach.
+10.7 Counterparts: This Agreement may be executed in counterparts, each of which shall constitute an original.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the date first written above.

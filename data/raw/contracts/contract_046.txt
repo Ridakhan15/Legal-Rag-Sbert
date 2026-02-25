@@ -1,0 +1,50 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement (the "Agreement") is made and entered into as of March 1, 2029, by and between TechVenture Solutions Ltd., a Delaware corporation with its principal place of business at 789 Innovation Drive, Austin, TX 78701 (the "Employer"), and Jennifer Martinez (the "Employee").
+
+RECITALS
+WHEREAS, Employer desires to employ Employee as Senior Software Engineer; and
+WHEREAS, Employee desires to accept such employment on the terms and conditions set forth herein;
+
+NOW, THEREFORE, the parties agree as follows:
+
+1. POSITION AND DUTIES
+1.1 Employee shall serve in the position of Senior Software Engineer, reporting to the Chief Technology Officer.
+1.2 Employee shall perform all duties and responsibilities customarily associated with such position, including but not limited to software development, code review, and technical documentation.
+1.3 Employee shall devote Employee's full business time, attention, and energies to the performance of duties hereunder.
+
+2. COMPENSATION AND BENEFITS
+2.1 Base Salary: Employer shall pay Employee an annual base salary of One Hundred Twenty Thousand Dollars ($165000.00), payable in bi-weekly installments.
+2.2 Annual Bonus: Employee shall be eligible for an annual performance bonus of up to twenty percent (20%) of base salary, subject to achievement of performance objectives.
+2.3 Stock Options: Employee shall be granted options to purchase 5,000 shares of Employer's common stock, vesting over four (4) years.
+2.4 Health Benefits: Employee shall be entitled to participate in Employer's health insurance plan, including medical, dental, and vision coverage.
+2.5 Retirement Plan: Employee may participate in Employer's 401(k) plan with company matching up to 4% of salary.
+2.6 Paid Time Off: Employee shall accrue twenty (20) days of paid vacation per year, plus ten (10) paid holidays.
+
+3. TERM OF EMPLOYMENT
+3.1 This Agreement shall commence on April 1, 2029, and shall continue on an at-will basis until terminated by either party.
+3.2 Either party may terminate this Agreement at any time, with or without cause, upon thirty (30) days prior written notice.
+
+4. TERMINATION PROVISIONS
+4.1 Termination for Cause: Employer may terminate Employee immediately for cause, including but not limited to: (a) material breach of this Agreement; (b) gross negligence or willful misconduct; (c) conviction of a felony; or (d) violation of company policies.
+4.2 Severance: If Employer terminates Employee without cause, Employee shall receive severance pay equal to three (3) months of base salary.
+4.3 Return of Property: Upon termination, Employee shall immediately return all company property, including laptop, access cards, and confidential materials.
+
+5. NON-COMPETITION AND NON-SOLICITATION
+5.1 During employment and for twelve (12) months following termination, Employee shall not:
+    (a) Engage in any business competitive with Employer within a fifty (50) mile radius;
+    (b) Solicit or attempt to solicit any customers or clients of Employer;
+    (c) Solicit or hire any employees or contractors of Employer.
+5.2 Employee acknowledges that this restriction is reasonable and necessary to protect Employer's legitimate business interests.
+
+6. CONFIDENTIAL INFORMATION AND INTELLECTUAL PROPERTY
+6.1 Employee acknowledges that during employment, Employee will have access to trade secrets and confidential information.
+6.2 Employee agrees to maintain the confidentiality of such information both during and after employment.
+6.3 All inventions, discoveries, and works of authorship created by Employee in connection with employment shall be the exclusive property of Employer.
+
+7. GENERAL PROVISIONS
+7.1 Governing Law: This Agreement shall be governed by the laws of the State of Texas.
+7.2 Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements.
+7.3 Amendment: This Agreement may only be amended in writing signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.

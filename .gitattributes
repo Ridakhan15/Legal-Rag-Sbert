@@ -1,0 +1,1 @@
+models/fine_tuned/legal-sbert-v1/model.safetensors filter=lfs diff=lfs merge=lfs -text

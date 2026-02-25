@@ -1,0 +1,3 @@
+This Non-Disclosure Agreement is entered into by John Doe and Acme Inc. 
+The parties agree not to disclose confidential information to any third party. 
+The NDA remains effective for 2 years after termination. 
