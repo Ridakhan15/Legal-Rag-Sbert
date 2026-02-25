@@ -419,7 +419,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If this project helped you, please consider giving it a ⭐️!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/legal-rag-sbert&type=Date)](https://star-history.com/#yourusername/legal-rag-sbert&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ridakhan15/legal-rag-sbert&type=Date)](https://star-history.com/#yourusername/legal-rag-sbert&Date)
 
 ---
 
