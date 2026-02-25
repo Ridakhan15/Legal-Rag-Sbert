@@ -400,7 +400,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**  
-📧 Email: your.email@example.com  
+📧 Email: khrida15124@gmal.com  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/khrida15)  
 🐙 GitHub: [@khrida15124@gmail.com](https://github.com/Ridakhan15)
 
